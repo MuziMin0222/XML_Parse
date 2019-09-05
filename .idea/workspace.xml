@@ -196,7 +196,7 @@
       <updated>1567577909943</updated>
       <workItem from="1567577916452" duration="12202000" />
       <workItem from="1567599617151" duration="17379000" />
-      <workItem from="1567679341865" duration="8818000" />
+      <workItem from="1567679341865" duration="9551000" />
     </task>
     <task id="LOCAL-00001" summary="这是对XML的解析的三种方法&#10;DOM，SAX，DOM4J">
       <created>1567689100196</created>
@@ -205,16 +205,23 @@
       <option name="project" value="LOCAL" />
       <updated>1567689100196</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="这是对XML的解析的三种方法&#10;DOM，SAX，DOM4J">
+      <created>1567690154606</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567690154606</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38399000" />
+    <option name="totallyTimeSpent" value="39132000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
