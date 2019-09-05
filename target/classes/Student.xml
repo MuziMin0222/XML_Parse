@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<students>
+    <student id="001" sex="男">
+        <name>周星驰</name>
+        <age>23</age>
+        <intro>这是一位成绩很好的学生</intro>
+    </student>
+    <student id="002" sex="男">
+        <name>刘德华</name>
+        <age>32</age>
+        <intro>他综合能力很优秀</intro>
+    </student>
+    <student id="003" sex="女">
+        <name>周惠敏</name>
+        <age>31</age>
+        <intro>长得漂亮</intro>
+    </student>
+    <student id="004" sex="男">
+        <name>王五</name>
+        <age>37</age>
+        <intro>成绩有点差</intro>
+    </student>
+    <student id="005" sex="男">
+        <name>张三丰</name>
+        <age>26</age>
+        <intro>经常逃课</intro>
+    </student>
+</students>
